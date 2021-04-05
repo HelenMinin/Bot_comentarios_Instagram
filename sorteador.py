@@ -44,5 +44,5 @@ class InstagramBot:
             time.sleep(3)
         contador += 1
 
-jhonatanBot = InstagramBot("seuUsuario", "suaSenha")
-jhonatanBot.ComentarEmFoto()
+Bot = InstagramBot("seuUsuario", "suaSenha")
+Bot.ComentarEmFoto()
