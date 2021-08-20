@@ -1,5 +1,3 @@
-# Bot_comentarios_Instagram
-
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="https://img.ibxk.com.br/2021/05/07/07031742837001.jpg?w=1120&h=420&mode=crop&scale=both">
     <br><br>
@@ -18,7 +16,7 @@
 Esse bot foi desenvolvido como um case de estudo da linguagem python, utilizando o selenium para automatizar tarefas!
 Ele efetua o login em uma conta existente no instagram faz comentarios em uma publicação.
 
-⚠️ O uso desse bot pode ser mal visto pelo Instagram, podendo resultar no banimento de sua conta. Utilize por sua conta e risco.
+⚠️ O uso desse bot pode ser mal visto pelo Instagram, resultando no banimento de sua conta! Utilize por sua conta e risco.
 
 <a id="tecnologias-utilizadas"></a>
 ## :rocket: Tecnologias Utilizadas
