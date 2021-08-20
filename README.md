@@ -18,7 +18,7 @@
 Esse bot foi desenvolvido como um case de estudo da linguagem python, utilizando o selenium para automatizar tarefas!
 Ele efetua o login em uma conta existente no instagram faz comentarios em uma publicação.
 
-:alert: O uso desse bot pode ser mal visto pelo Instagram, podendo resultar no banimento de sua conta. Utilize por sua conta e risco.
+⚠️ O uso desse bot pode ser mal visto pelo Instagram, podendo resultar no banimento de sua conta. Utilize por sua conta e risco.
 
 <a id="tecnologias-utilizadas"></a>
 ## :rocket: Tecnologias Utilizadas
